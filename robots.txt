@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jacknaeve.github.io/football-speed-training/sitemap.xml
